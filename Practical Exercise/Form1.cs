@@ -21,6 +21,7 @@ namespace Practical_Exercise
             timer = new Timer();
             timer.Interval = 1000; // 1 second
             timer.Tick += timer1_Tick;
+
         }
         private void Form1_Load(object sender, EventArgs e)
         {

@@ -17,6 +17,7 @@ namespace Practical_Exercise
         private Timer timer;
         public Form1()
         {
+
             InitializeComponent();
             timer = new Timer();
             timer.Interval = 1000; // 1 second
@@ -29,7 +30,9 @@ namespace Practical_Exercise
         }
         private void timer1_Tick(object sender, EventArgs e)
         {
+
             UpdateTimerLabels();
+
         }
         private void UpdateTimerLabels()
         {

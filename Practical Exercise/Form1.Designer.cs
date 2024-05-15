@@ -109,7 +109,7 @@
             this.lblMinutes.AutoEllipsis = true;
             this.lblMinutes.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblMinutes.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMinutes.Location = new System.Drawing.Point(223, 46);
+            this.lblMinutes.Location = new System.Drawing.Point(232, 46);
             this.lblMinutes.Name = "lblMinutes";
             this.lblMinutes.Size = new System.Drawing.Size(75, 36);
             this.lblMinutes.TabIndex = 10;
@@ -121,7 +121,7 @@
             this.lblSeconds.AutoEllipsis = true;
             this.lblSeconds.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblSeconds.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSeconds.Location = new System.Drawing.Point(348, 46);
+            this.lblSeconds.Location = new System.Drawing.Point(360, 46);
             this.lblSeconds.Name = "lblSeconds";
             this.lblSeconds.Size = new System.Drawing.Size(75, 36);
             this.lblSeconds.TabIndex = 11;
@@ -133,7 +133,7 @@
             this.label3.AutoEllipsis = true;
             this.label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label3.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(348, 236);
+            this.label3.Location = new System.Drawing.Point(360, 236);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(75, 36);
             this.label3.TabIndex = 14;
@@ -145,7 +145,7 @@
             this.label4.AutoEllipsis = true;
             this.label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label4.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(223, 236);
+            this.label4.Location = new System.Drawing.Point(232, 236);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(75, 36);
             this.label4.TabIndex = 13;
